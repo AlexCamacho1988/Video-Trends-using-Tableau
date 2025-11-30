@@ -1,7 +1,7 @@
 # Video-Trends-using-Tableau
 Video Trends by Country Dashboard using Tableau
 
-##Project Description
+### Project Description
 This project analyzes global YouTube trending videos by examining patterns across various categories and regions through interactive visualizations by applying filters that affect multiple charts and correlate both by date and region.
 
 The study centered on:
